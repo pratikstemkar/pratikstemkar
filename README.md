@@ -1,4 +1,4 @@
-### Hi there 👋
+**Hey, I am Pratik Temkar ⚡️**
 
 <!--
 **pratikstemkar/pratikstemkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<samp>
+  Check out my website -> <a href="https://www.pratikstemkar.in">pratikstemkar.in</a>
+</samp>
