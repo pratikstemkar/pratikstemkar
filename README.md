@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <samp>
-  Check out my website -> <a href="https://www.pratikstemkar.github.io">pratikstemkar.github.io</a>
+  Check out my website -> <a href="https://pratikstemkar.github.io">pratikstemkar.github.io</a>
 </samp>
