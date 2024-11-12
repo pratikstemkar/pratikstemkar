@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 </samp>
 -->
 
+<a href="https://x.com/pratikstemkar">X</a> | 
+<a href="https://linkedin.com/in/pratikstemkar">LinkedIn</a>
+
